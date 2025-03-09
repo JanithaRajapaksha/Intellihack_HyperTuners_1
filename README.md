@@ -1,5 +1,3 @@
-Here's a **short and simple README.md** for your repository:  
-
 ---
 
 # **🌦️ Weather Prediction using Machine Learning**  
